@@ -46,6 +46,8 @@ The problems uses the following tech:
 
 ### License
 
+Exercises are from www.pramp.com
+
 MIT License
 
 Copyright (c) 2017 TED
