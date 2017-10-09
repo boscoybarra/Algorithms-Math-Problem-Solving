@@ -31,7 +31,7 @@ Award Budget Cuts
 
 ### Solution
 
-You can check the solution here: SOLUTION.md , in the Solution folder you will also find the Swift Playground with my response. Not necessarily the "correct" one.
+You can check the solution here: SOLUTION Problem 1.md , in the Solution folder you will also find the Swift Playground with my response. Not necessarily the "correct" one.
 
 
 ### Tech
