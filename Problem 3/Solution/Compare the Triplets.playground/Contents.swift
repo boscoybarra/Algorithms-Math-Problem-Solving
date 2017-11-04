@@ -2,8 +2,6 @@
 
 import Foundation
 
-//
-
 //Explanation
 //For every grade higher than the other, these two students get one point. If they draw in one of them, they do not get credit. What is the final result?
 
