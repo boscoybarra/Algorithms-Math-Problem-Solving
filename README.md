@@ -6,8 +6,9 @@ It is not only a good exercise for me to solve them and share them with you but 
 
 # Features
 
-- It is writen in Swift 4.0
+- Some of them are written in Swift 4.0
 - Files are in Swift Playgrounds.
+- Recently I have included also some fun exercise in JavaScript
 
 
 
@@ -26,9 +27,10 @@ The problems uses the following tech:
 
 * [Swift] - Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS.
 * [Xcode] - Xcode is a complete developer toolset for creating apps for Mac, iPhone, iPad, Apple Watch, and Apple TV.
+* [JavaScript] - I'm running the code in Atom using a cool plugin called: Script. To run simply hit command + i
 
 
-### Installation
+### Installation for Xcode Exercises
 
 
 **Simply make sure you have Xcode's latest version and open the file**
@@ -42,11 +44,12 @@ The problems uses the following tech:
 ### Todos
 
  - Add the option to include collaborations.
- - Improve Swift sintax for the hints and solutions.
+ - Improve Swift syntax for the hints and solutions.
 
 ### License
 
-Exercises are from www.pramp.com
+Exercises are from www.Pramp.com
+JavaScript exercises are from www.Udacity.com
 
 MIT License
 
