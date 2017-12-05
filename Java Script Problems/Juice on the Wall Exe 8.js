@@ -29,7 +29,7 @@ var num = 99;
 while (num >= 1) {
     // check value of num
     var bottles =
-    (num === 2) ? num + " bottles of juice on the wall! 2 bottle of juice! Take one down, pass it around... 1 bottle of juice on the wall!" :
+    (num === 2) ? num + " bottles of juice on the wall! 2 bottles of juice! Take one down, pass it around... 1 bottle of juice on the wall!" :
     (num === 1) ? num + " bottle of juice on the wall! 1 bottle of juice! Take one down, pass it around... 0 bottles of juice on the wall!" : num + " bottles of juice on the wall! " + num + " bottles of juice! Take one down, pass it around... " + (num - 1 ) + " bottles of juice on the wall!" ;
 
     // print lyrics using num
