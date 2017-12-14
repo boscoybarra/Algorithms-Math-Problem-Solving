@@ -11,6 +11,8 @@ var udaciFamily = []
 
 udaciFamily[0] = "Julia";
 udaciFamily[1] = "James";
-udaciFamily[2] = "Me";
+udaciFamily[2] = "You";
+udaciFamily[3] = "Me";
+
 
 console.log(udaciFamily);
